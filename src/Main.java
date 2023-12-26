@@ -1,5 +1,6 @@
 public  class Main {
     public static void main(String[] args) {
+        System.out.println("homework 2");
         //wtite your code here
         var dog = 8.0;
         System.out.println(dog);
